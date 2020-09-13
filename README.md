@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m currently working on Github Session adn Java
+<br>I’m looking for help with UI Dev
 
 <!--
 **omegasam98/omegasam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
